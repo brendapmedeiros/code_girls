@@ -1,7 +1,7 @@
 # code_girls
 # Gerenciando Instâncias EC2 na AWS
 
-Este repositório foi criado como parte do desafio **"Gerenciando Instâncias EC2 na AWS"** do Bootcamp Code Girls  
+Este repositório foi criado como parte do desafio **"Gerenciando Instâncias EC2 na AWS"** do Bootcamp Code Girls oferecido pelo Santander.  
 O objetivo é documentar todo o aprendizado prático sobre gerenciamento de instâncias, consolidando conceitos e servindo como material de apoio para estudos futuros.  
 
 
