@@ -30,7 +30,7 @@ Nessa arquitetura:
 - O Lambda processa os dados e armazena em outro bucket S3.  
 
  Diagrama:  
-![Arquitetura S3-EC2-Lambda](./imagens/arquitetura-s3-ec2-lambda.png)
+![Arquitetura S3-EC2-Lambda](./images/arquitetura-s3-ec2-lambda.png)
 
 ---
 
@@ -42,7 +42,7 @@ Nessa arquitetura:
 - Os dados estruturados são gravados em um banco relacional.  
 
  Diagrama:  
-![Arquitetura EC2-EBS-RDS](./imagens/arquitetura-ec2-ebs-rds.png)
+![Arquitetura EC2-EBS-RDS](./images/arquitetura-ec2-ebs-rds.png)
 
 
 
